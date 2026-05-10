@@ -1,0 +1,9 @@
+# Core deep learning
+torch>=2.0
+
+# Graph neural networks
+torch-geometric>=2.3
+
+# Numerical & data
+numpy>=1.23
+pandas>=1.5
