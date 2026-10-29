@@ -14,7 +14,6 @@ stages:
 3. **Road-progress decoder** (`models/road_progress_decoder.py`) — turns a
    road-segment sequence into a sequence of (segment, progress, time) tuples
    that are interpolated to GPS coordinates.
-Dkslgjalksjd
 
 ## Repository layout
 
