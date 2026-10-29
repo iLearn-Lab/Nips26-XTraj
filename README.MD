@@ -1,4 +1,4 @@
-# XTraj
+#[Neurips 2026] Official Implementation for XTraj
 
 Reference implementation for **XTraj**, a heat-aware multimodal generative
 framework for urban GPS trajectories. The code is split into three coupled
