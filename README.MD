@@ -313,8 +313,6 @@ Xi'an trajectories, and XTraj-generated Xi'an trajectories.
 ## TODO
 
 - [ ] Add the final paper and project-page links.
-- [ ] Release the dataset or document its access procedure.
-- [ ] Add additional city-level and route-level visualizations.
 
 ## Acknowledgement
 
